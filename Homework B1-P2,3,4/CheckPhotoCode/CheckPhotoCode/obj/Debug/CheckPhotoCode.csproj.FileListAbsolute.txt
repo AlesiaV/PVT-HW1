@@ -1,0 +1,7 @@
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\CheckPhotoCode\CheckPhotoCode\bin\Debug\CheckPhotoCode.exe.config
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\CheckPhotoCode\CheckPhotoCode\bin\Debug\CheckPhotoCode.exe
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\CheckPhotoCode\CheckPhotoCode\bin\Debug\CheckPhotoCode.pdb
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\CheckPhotoCode\CheckPhotoCode\obj\Debug\CheckPhotoCode.csprojAssemblyReference.cache
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\CheckPhotoCode\CheckPhotoCode\obj\Debug\CheckPhotoCode.csproj.CoreCompileInputs.cache
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\CheckPhotoCode\CheckPhotoCode\obj\Debug\CheckPhotoCode.exe
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\CheckPhotoCode\CheckPhotoCode\obj\Debug\CheckPhotoCode.pdb
