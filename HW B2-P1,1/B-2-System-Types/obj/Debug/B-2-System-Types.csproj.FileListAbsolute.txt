@@ -1,0 +1,7 @@
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\B-2-System-Types\bin\Debug\ConsoleApp7.exe.config
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\B-2-System-Types\bin\Debug\ConsoleApp7.exe
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\B-2-System-Types\bin\Debug\ConsoleApp7.pdb
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\B-2-System-Types\obj\Debug\B-2-System-Types.csprojAssemblyReference.cache
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\B-2-System-Types\obj\Debug\B-2-System-Types.csproj.CoreCompileInputs.cache
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\B-2-System-Types\obj\Debug\ConsoleApp7.exe
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\B-2-System-Types\obj\Debug\ConsoleApp7.pdb
