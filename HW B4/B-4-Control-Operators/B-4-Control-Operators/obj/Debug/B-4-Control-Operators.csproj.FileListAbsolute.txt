@@ -1,0 +1,14 @@
+d:\ITAcademy\03-12-2018\GIT\B-4-Control-Operators\B-4-Control-Operators\bin\Debug\Basic.Lesson_4._1.exe.config
+d:\ITAcademy\03-12-2018\GIT\B-4-Control-Operators\B-4-Control-Operators\bin\Debug\Basic.Lesson_4._1.exe
+d:\ITAcademy\03-12-2018\GIT\B-4-Control-Operators\B-4-Control-Operators\bin\Debug\Basic.Lesson_4._1.pdb
+d:\ITAcademy\03-12-2018\GIT\B-4-Control-Operators\B-4-Control-Operators\obj\Debug\B-4-Control-Operators.csprojAssemblyReference.cache
+d:\ITAcademy\03-12-2018\GIT\B-4-Control-Operators\B-4-Control-Operators\obj\Debug\B-4-Control-Operators.csproj.CoreCompileInputs.cache
+d:\ITAcademy\03-12-2018\GIT\B-4-Control-Operators\B-4-Control-Operators\obj\Debug\Basic.Lesson_4._1.exe
+d:\ITAcademy\03-12-2018\GIT\B-4-Control-Operators\B-4-Control-Operators\obj\Debug\Basic.Lesson_4._1.pdb
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\03-12-2018-master11\B-4-Control-Operators\B-4-Control-Operators\bin\Debug\Basic.Lesson_4._1.exe.config
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\03-12-2018-master11\B-4-Control-Operators\B-4-Control-Operators\bin\Debug\Basic.Lesson_4._1.exe
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\03-12-2018-master11\B-4-Control-Operators\B-4-Control-Operators\bin\Debug\Basic.Lesson_4._1.pdb
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\03-12-2018-master11\B-4-Control-Operators\B-4-Control-Operators\obj\Debug\B-4-Control-Operators.csproj.CoreCompileInputs.cache
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\03-12-2018-master11\B-4-Control-Operators\B-4-Control-Operators\obj\Debug\Basic.Lesson_4._1.exe
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\03-12-2018-master11\B-4-Control-Operators\B-4-Control-Operators\obj\Debug\Basic.Lesson_4._1.pdb
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\03-12-2018-master11\B-4-Control-Operators\B-4-Control-Operators\obj\Debug\B-4-Control-Operators.csprojAssemblyReference.cache
