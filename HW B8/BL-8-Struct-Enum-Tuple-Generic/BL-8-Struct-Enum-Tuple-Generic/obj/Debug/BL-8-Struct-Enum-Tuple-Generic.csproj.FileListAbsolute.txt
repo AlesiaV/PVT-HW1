@@ -1,0 +1,6 @@
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\09-01-2019-master\03-12-2018-master\BL-8-Struct-Enum-Tuple-Generic\BL-8-Struct-Enum-Tuple-Generic\obj\Debug\BL-8-Struct-Enum-Tuple-Generic.csproj.CoreCompileInputs.cache
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\09-01-2019-master\03-12-2018-master\BL-8-Struct-Enum-Tuple-Generic\BL-8-Struct-Enum-Tuple-Generic\bin\Debug\BL-8-Struct-Enum-Tuple-Generic.exe.config
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\09-01-2019-master\03-12-2018-master\BL-8-Struct-Enum-Tuple-Generic\BL-8-Struct-Enum-Tuple-Generic\bin\Debug\BL-8-Struct-Enum-Tuple-Generic.exe
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\09-01-2019-master\03-12-2018-master\BL-8-Struct-Enum-Tuple-Generic\BL-8-Struct-Enum-Tuple-Generic\bin\Debug\BL-8-Struct-Enum-Tuple-Generic.pdb
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\09-01-2019-master\03-12-2018-master\BL-8-Struct-Enum-Tuple-Generic\BL-8-Struct-Enum-Tuple-Generic\obj\Debug\BL-8-Struct-Enum-Tuple-Generic.exe
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\09-01-2019-master\03-12-2018-master\BL-8-Struct-Enum-Tuple-Generic\BL-8-Struct-Enum-Tuple-Generic\obj\Debug\BL-8-Struct-Enum-Tuple-Generic.pdb
