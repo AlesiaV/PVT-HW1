@@ -1,0 +1,7 @@
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\11-01-2019-master\03-12-2018-master\B-9-Extention-Methods-Deconstruction\B-9-Extention-Methods-Deconstruction\bin\Debug\Base-Lesson-9.exe.config
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\11-01-2019-master\03-12-2018-master\B-9-Extention-Methods-Deconstruction\B-9-Extention-Methods-Deconstruction\bin\Debug\Base-Lesson-9.exe
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\11-01-2019-master\03-12-2018-master\B-9-Extention-Methods-Deconstruction\B-9-Extention-Methods-Deconstruction\bin\Debug\Base-Lesson-9.pdb
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\11-01-2019-master\03-12-2018-master\B-9-Extention-Methods-Deconstruction\B-9-Extention-Methods-Deconstruction\obj\Debug\B-9-Extention-Methods-Deconstruction.csprojAssemblyReference.cache
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\11-01-2019-master\03-12-2018-master\B-9-Extention-Methods-Deconstruction\B-9-Extention-Methods-Deconstruction\obj\Debug\B-9-Extention-Methods-Deconstruction.csproj.CoreCompileInputs.cache
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\11-01-2019-master\03-12-2018-master\B-9-Extention-Methods-Deconstruction\B-9-Extention-Methods-Deconstruction\obj\Debug\Base-Lesson-9.exe
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\11-01-2019-master\03-12-2018-master\B-9-Extention-Methods-Deconstruction\B-9-Extention-Methods-Deconstruction\obj\Debug\Base-Lesson-9.pdb
