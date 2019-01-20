@@ -1,0 +1,7 @@
+C:\Users\alesia\source\repos\InternetShop\InternetShop\bin\Debug\InternetShop.exe.config
+C:\Users\alesia\source\repos\InternetShop\InternetShop\bin\Debug\InternetShop.exe
+C:\Users\alesia\source\repos\InternetShop\InternetShop\bin\Debug\InternetShop.pdb
+C:\Users\alesia\source\repos\InternetShop\InternetShop\obj\Debug\InternetShop.csprojAssemblyReference.cache
+C:\Users\alesia\source\repos\InternetShop\InternetShop\obj\Debug\InternetShop.csproj.CoreCompileInputs.cache
+C:\Users\alesia\source\repos\InternetShop\InternetShop\obj\Debug\InternetShop.exe
+C:\Users\alesia\source\repos\InternetShop\InternetShop\obj\Debug\InternetShop.pdb
