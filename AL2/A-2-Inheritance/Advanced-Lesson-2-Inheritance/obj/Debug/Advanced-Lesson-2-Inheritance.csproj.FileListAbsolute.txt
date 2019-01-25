@@ -1,0 +1,7 @@
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\18-01-2019\03-12-2018-master\A-2-Inheritance\Advanced-Lesson-2-Inheritance\bin\Debug\Advanced-Lesson-2-Inheritance.exe.config
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\18-01-2019\03-12-2018-master\A-2-Inheritance\Advanced-Lesson-2-Inheritance\bin\Debug\Advanced-Lesson-2-Inheritance.exe
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\18-01-2019\03-12-2018-master\A-2-Inheritance\Advanced-Lesson-2-Inheritance\bin\Debug\Advanced-Lesson-2-Inheritance.pdb
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\18-01-2019\03-12-2018-master\A-2-Inheritance\Advanced-Lesson-2-Inheritance\obj\Debug\Advanced-Lesson-2-Inheritance.csprojAssemblyReference.cache
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\18-01-2019\03-12-2018-master\A-2-Inheritance\Advanced-Lesson-2-Inheritance\obj\Debug\Advanced-Lesson-2-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\18-01-2019\03-12-2018-master\A-2-Inheritance\Advanced-Lesson-2-Inheritance\obj\Debug\Advanced-Lesson-2-Inheritance.exe
+C:\Users\alesia\Desktop\ДЗ по курсам ПВТ\18-01-2019\03-12-2018-master\A-2-Inheritance\Advanced-Lesson-2-Inheritance\obj\Debug\Advanced-Lesson-2-Inheritance.pdb
