@@ -13,7 +13,7 @@ namespace ConsoleImageProcessingApplication
             bool input = true;
             while (input)
             {
-                Console.WriteLine("Введите путь к папке с изображениями");
+                //Console.WriteLine("Enter the path to the folder with images:");
                 //string pathDirectory = Console.ReadLine(); //D:\Изображения\
                 string pathDirectory = @"D:\Изображения\";
 
@@ -22,32 +22,41 @@ namespace ConsoleImageProcessingApplication
                 Console.WriteLine("2 - adding a mark to the image when the photo was taken;"); //добавление на изображение отметки, когда фото было сделано
                 Console.WriteLine("3 - sorting images by folders by year;"); //сортировка изображений по папкам по годам
                 Console.WriteLine("4 - sorting images by folder by location."); //сортировка изображений по папкам по месту съемки
-                Console.Write("->  ");
+                Console.Write("-> ");
 
-                BasicClass imagePr = null;
-                int command = Convert.ToInt32(Console.ReadLine());
-                switch (command)
+                try
                 {
-                    case 1:
-                        imagePr = new RenameImagesShootDate(pathDirectory, @"RenameImagesShootDate\");
-                        break;
-                    case 2:
-                        imagePr = new AddMark(pathDirectory, @"AddMark\");
-                        break;
-                    case 3:
-                        imagePr = new SortByYear(pathDirectory, @"SortByYear\");
-                        break;
-                    //case 4:
-                    //    imagePr = new SortByLocation(pathDirectory, @"SortByLocation\");
-                    //    break;
+                    BasicClass imagePr = null;
+                    int command = Convert.ToInt32(Console.ReadLine());
+                    switch (command)
+                    {
+                        case 1:
+                            imagePr = new RenameImagesShootDate(pathDirectory, @"RenameImagesShootDate\");
+                            break;
+                        case 2:
+                            imagePr = new AddMark(pathDirectory, @"AddMark\");
+                            break;
+                        case 3:
+                            imagePr = new SortByYear(pathDirectory, @"SortByYear\");
+                            break;
+                        case 4:
+                            imagePr = new SortByLocation(pathDirectory, @"SortByLocation\");
+                            break;
 
-                    default:
-                        Console.WriteLine("Please enter a correctly command!");
-                        break;
+                            //default:
+                            //    Console.WriteLine("Please enter a correctly command!");
+                            //    break;
+                    }
+
+                    imagePr.ImageProcessAppl();
                 }
-
-                imagePr.ImageProcessAppl();
-                break;
+                catch (Exception)
+                {
+                    Console.Clear();
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Please enter a correctly command!");
+                    Console.ForegroundColor = ConsoleColor.Gray;
+                }
             }
         }
     }

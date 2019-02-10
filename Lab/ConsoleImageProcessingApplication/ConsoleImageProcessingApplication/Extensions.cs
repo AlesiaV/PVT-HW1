@@ -18,5 +18,13 @@ namespace ConsoleImageProcessingApplication.Extensions
 
             return fileDate;
         }
+
+        public static string GetFileYear(this Image image)
+        {
+            var propItemsDate = image.GetPropertyItem(0x9003);
+            string fileDate = Encoding.UTF8.GetString(propItemsDate.Value).Replace(':', '.').Substring(0, 4);
+
+            return fileDate;
+        }
     }
 }

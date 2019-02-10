@@ -10,7 +10,7 @@ namespace ConsoleImageProcessingApplication
 {
     public abstract class BasicClass
     {
-        public FileInfo[] Files;
+        public FileInfo[] _Files;
         public string newPathDirectory;
         public abstract void ImageProcessAppl();
 
@@ -29,7 +29,7 @@ namespace ConsoleImageProcessingApplication
             }
             else Console.WriteLine("Error! Directory missing.");
 
-            Files = directory.GetFiles(@"*.jpg");
+            _Files = directory.GetFiles(@"*.jpg");
         }
     }
 }

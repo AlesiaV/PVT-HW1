@@ -18,14 +18,11 @@ namespace ConsoleImageProcessingApplication
         }
         public override void ImageProcessAppl()
         {
-            foreach (var file in Files)
+            foreach (var file in _Files)
             {
                 using (Image image = Image.FromFile(file.FullName))
                 {
-                    //var propItemsDate = image.GetPropertyItem(0x9003);
-                    //string fileDate = Encoding.UTF8.GetString(propItemsDate.Value).Replace(':', '.').Substring(0, 4);
-
-                    string fileDate = image.GetFileDate().Substring(0, 4);
+                    string fileDate = image.GetFileYear().Substring(0, 4);
                     
                     var newDirByYear = new DirectoryInfo(newPathDirectory + fileDate + @"\");
 
