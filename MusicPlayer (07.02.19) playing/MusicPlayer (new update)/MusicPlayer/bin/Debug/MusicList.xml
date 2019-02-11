@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<ArrayOfSong xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Song>
+    <Duration>247</Duration>
+    <Name>In the Shadows</Name>
+    <Artist>
+      <Genre>Pop</Genre>
+      <Name>Rasmus</Name>
+    </Artist>
+    <Album>
+      <Name>Dead Letters</Name>
+      <Year>2003</Year>
+    </Album>
+    <Like xsi:nil="true" />
+    <Genres>Undefined</Genres>
+  </Song>
+  <Song>
+    <Duration>217</Duration>
+    <Name>Handle This</Name>
+    <Artist>
+      <Genre>Alternative</Genre>
+      <Name>Sum 41</Name>
+    </Artist>
+    <Album>
+      <Name>All Killer, No Filler</Name>
+      <Year>2001</Year>
+    </Album>
+    <Like xsi:nil="true" />
+    <Genres>Undefined</Genres>
+  </Song>
+  <Song>
+    <Duration>229</Duration>
+    <Name>Sail Away</Name>
+    <Artist>
+      <Genre />
+      <Name>The Rasmus</Name>
+    </Artist>
+    <Album>
+      <Year>0</Year>
+    </Album>
+    <Like xsi:nil="true" />
+    <Genres>Undefined</Genres>
+  </Song>
+  <Song>
+    <Duration>221</Duration>
+    <Name>Gone Forever (zaycev.net)</Name>
+    <Artist>
+      <Genre />
+      <Name>? Three Days Grace</Name>
+    </Artist>
+    <Album>
+      <Year>0</Year>
+    </Album>
+    <Like xsi:nil="true" />
+    <Genres>Undefined</Genres>
+  </Song>
+  <Song>
+    <Duration>177</Duration>
+    <Name>Painkiller (zaycev.net)</Name>
+    <Artist>
+      <Genre />
+      <Name>Three Days Grace</Name>
+    </Artist>
+    <Album>
+      <Year>0</Year>
+    </Album>
+    <Like xsi:nil="true" />
+    <Genres>Undefined</Genres>
+  </Song>
+</ArrayOfSong>
